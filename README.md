@@ -47,9 +47,9 @@ Open the project using a live saver extension that can be found into your code e
 
 👤 **Lembani Sakala**
 
-- GitHub: [@githubhandle](https://github.com/lembani)
-- Twitter: [@twitterhandle](https://twitter.com/lembani_)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/lembani-sakala-b58615109)
+- GitHub: [@lembani](https://github.com/lembani)
+- Twitter: [@tlembani_](https://twitter.com/lembani_)
+- LinkedIn: [lembani-sakala-b58615109](https://linkedin.com/in/lembani-sakala-b58615109)
 
 ## 🤝 Contributing
 
